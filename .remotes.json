@@ -1,5 +1,11 @@
 [
   {
+    "package": "surveyvisualize",
+    "url": "https://github.com/Westat-Transportation/surveyvisualize",
+    "via": ["CTPPr"],
+    "from": "CTPPr"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["glitter"],

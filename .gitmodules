@@ -87,6 +87,10 @@
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
 	subdir = pkg
+[submodule "surveyvisualize"]
+	path = surveyvisualize
+	url = https://github.com/Westat-Transportation/surveyvisualize
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
