@@ -1,5 +1,11 @@
 [
   {
+    "package": "curl",
+    "url": "https://github.com/jeroen/curl",
+    "via": ["pandoc"],
+    "from": "pandoc"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
