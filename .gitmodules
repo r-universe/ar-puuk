@@ -168,9 +168,25 @@
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/tylermorganwall/raybevel
+	registered = false
+[submodule "rayimage"]
+	path = rayimage
+	url = https://github.com/tylermorganwall/rayimage
+	registered = false
+[submodule "rayrender"]
+	path = rayrender
+	url = https://github.com/tylermorganwall/rayrender
+	registered = false
 [submodule "rayshader"]
 	path = rayshader
 	url = https://github.com/tylermorganwall/rayshader
+[submodule "rayvertex"]
+	path = rayvertex
+	url = https://github.com/tylermorganwall/rayvertex
+	registered = false
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
