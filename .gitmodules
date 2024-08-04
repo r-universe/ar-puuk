@@ -5,6 +5,15 @@
 [submodule "CTPPr"]
 	path = CTPPr
 	url = https://github.com/Westat-Transportation/CTPPr
+[submodule "DT"]
+	path = DT
+	url = https://github.com/rstudio/DT
+[submodule "RArcInfo"]
+	path = RArcInfo
+	url = https://github.com/cran/RArcInfo
+[submodule "RColorBrewer"]
+	path = RColorBrewer
+	url = https://github.com/cran/RColorBrewer
 [submodule "RPostgres"]
 	path = RPostgres
 	url = https://github.com/r-dbi/RPostgres
@@ -17,6 +26,9 @@
 [submodule "arcgis"]
 	path = arcgis
 	url = https://github.com/R-ArcGIS/arcgis
+[submodule "archive"]
+	path = archive
+	url = https://github.com/r-lib/archive
 [submodule "areal"]
 	path = areal
 	url = https://github.com/chris-prener/areal
@@ -47,6 +59,9 @@
 [submodule "dbi"]
 	path = dbi
 	url = https://github.com/r-dbi/DBI
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/r-lib/devtools
 [submodule "dlookr"]
 	path = dlookr
 	url = https://github.com/choonghyunryu/dlookr
@@ -62,6 +77,9 @@
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/wch/extrafont
+[submodule "flextable"]
+	path = flextable
+	url = https://github.com/davidgohel/flextable
 [submodule "foreign"]
 	path = foreign
 	url = https://svn.r-project.org/R-packages/trunk/foreign
@@ -104,6 +122,9 @@
 [submodule "hrbrthemes"]
 	path = hrbrthemes
 	url = https://github.com/hrbrmstr/hrbrthemes
+[submodule "httr2"]
+	path = httr2
+	url = https://github.com/r-lib/httr2
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
@@ -123,18 +144,39 @@
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/jamgreen/lehdr
+[submodule "magick"]
+	path = magick
+	url = https://github.com/ropensci/magick
 [submodule "mapsf"]
 	path = mapsf
 	url = https://riatelab.github.io/mapsf
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
+[submodule "mschart"]
+	path = mschart
+	url = https://github.com/ardata-fr/mschart
+[submodule "nanoparquet"]
+	path = nanoparquet
+	url = https://github.com/r-lib/nanoparquet
 [submodule "numetricApi"]
 	path = numetricApi
 	url = https://github.com/RonGuymon/numetricAPI
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/r-dbi/odbc
+[submodule "officedown"]
+	path = officedown
+	url = https://github.com/davidgohel/officedown
+[submodule "officer"]
+	path = officer
+	url = https://github.com/davidgohel/officer
+[submodule "openrouteservice"]
+	path = openrouteservice
+	url = https://github.com/GIScience/openrouteservice-r
+[submodule "openxlsx"]
+	path = openxlsx
+	url = https://github.com/ycphs/openxlsx
 [submodule "openxlsx2"]
 	path = openxlsx2
 	url = https://github.com/JanMarvin/openxlsx2
@@ -150,6 +192,9 @@
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/EmilHvitfeldt/paletteer
+[submodule "pandoc"]
+	path = pandoc
+	url = https://github.com/cderv/pandoc
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters
@@ -187,9 +232,18 @@
 	path = rayvertex
 	url = https://github.com/tylermorganwall/rayvertex
 	registered = false
+[submodule "remotes"]
+	path = remotes
+	url = https://github.com/r-lib/remotes
+[submodule "rgdal"]
+	path = rgdal
+	url = https://r-forge.r-project.org/projects/rgdal
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "rvg"]
+	path = rvg
+	url = https://github.com/davidgohel/rvg
 [submodule "scales"]
 	path = scales
 	url = https://github.com/r-lib/scales
@@ -242,12 +296,18 @@
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/walkerke/tidycensus
+[submodule "tidylodes"]
+	path = tidylodes
+	url = https://github.com/patrickballantyne/tidylodes
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/tidymodels/tidymodels
 [submodule "tidyqwi"]
 	path = tidyqwi
 	url = https://github.com/medewitt/tidyqwi
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
@@ -260,9 +320,15 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/walkerke/tigris
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/rstudio/tinytex
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/r-tmap/tmap
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/r-tmap/tmaptools
+[submodule "zip"]
+	path = zip
+	url = https://github.com/r-lib/zip
