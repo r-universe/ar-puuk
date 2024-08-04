@@ -5,6 +5,15 @@
 [submodule "CTPPr"]
 	path = CTPPr
 	url = https://github.com/Westat-Transportation/CTPPr
+[submodule "RPostgres"]
+	path = RPostgres
+	url = https://github.com/r-dbi/RPostgres
+[submodule "RSQLite"]
+	path = RSQLite
+	url = https://github.com/r-dbi/RSQLite
+[submodule "annotater"]
+	path = annotater
+	url = https://github.com/luisDVA/annotater
 [submodule "arcgis"]
 	path = arcgis
 	url = https://github.com/R-ArcGIS/arcgis
@@ -14,6 +23,12 @@
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
+[submodule "cartogram"]
+	path = cartogram
+	url = https://sjewo.github.io/cartogram
+[submodule "censusapi"]
+	path = censusapi
+	url = https://github.com/hrecht/censusapi
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
@@ -23,18 +38,72 @@
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table
+[submodule "dataMaid"]
+	path = dataMaid
+	url = https://github.com/ekstroem/dataMaid
+[submodule "datapasta"]
+	path = datapasta
+	url = https://github.com/MilesMcBain/datapasta
+[submodule "dbi"]
+	path = dbi
+	url = https://github.com/r-dbi/DBI
+[submodule "dlookr"]
+	path = dlookr
+	url = https://github.com/choonghyunryu/dlookr
+[submodule "duckdb-r"]
+	path = duckdb-r
+	url = https://github.com/duckdb/duckdb-r
+[submodule "duckplyr"]
+	path = duckplyr
+	url = https://github.com/duckdblabs/duckplyr
+[submodule "esquisse"]
+	path = esquisse
+	url = https://github.com/dreamRs/esquisse
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/wch/extrafont
+[submodule "foreign"]
+	path = foreign
+	url = https://svn.r-project.org/R-packages/trunk/foreign
+[submodule "formatR"]
+	path = formatR
+	url = https://github.com/yihui/formatR
+[submodule "future"]
+	path = future
+	url = https://github.com/HenrikBengtsson/future
+[submodule "ggThemeAssist"]
+	path = ggThemeAssist
+	url = https://github.com/calligross/ggthemeassist
+[submodule "ggstatsplot"]
+	path = ggstatsplot
+	url = https://github.com/IndrajeetPatil/ggstatsplot
+[submodule "ggthemes"]
+	path = ggthemes
+	url = https://github.com/jrnold/ggthemes
 [submodule "glitter"]
 	path = glitter
 	url = https://github.com/lvaudor/glitter
+[submodule "gridExtra"]
+	path = gridExtra
+	url = https://github.com/baptiste/gridextra
 [submodule "gt"]
 	path = gt
 	url = https://github.com/rstudio/gt
+[submodule "gtExtras"]
+	path = gtExtras
+	url = https://github.com/jthomasmock/gtExtras
+[submodule "gtfsio"]
+	path = gtfsio
+	url = https://github.com/r-transit/gtfsio
+[submodule "gtfstools"]
+	path = gtfstools
+	url = https://github.com/ipeaGIT/gtfstools
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/ddsjoberg/gtsummary
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/hrbrmstr/hrbrthemes
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
@@ -44,15 +113,24 @@
 [submodule "jmv"]
 	path = jmv
 	url = https://github.com/jamovi/jmv
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/jeroen/jsonlite
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/jamgreen/lehdr
+[submodule "mapsf"]
+	path = mapsf
+	url = https://riatelab.github.io/mapsf
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
 [submodule "numetricApi"]
 	path = numetricApi
 	url = https://github.com/RonGuymon/numetricAPI
+[submodule "odbc"]
+	path = odbc
+	url = https://github.com/r-dbi/odbc
 [submodule "openxlsx2"]
 	path = openxlsx2
 	url = https://github.com/JanMarvin/openxlsx2
@@ -65,27 +143,70 @@
 [submodule "pak"]
 	path = pak
 	url = https://github.com/r-lib/pak
+[submodule "paletteer"]
+	path = paletteer
+	url = https://github.com/EmilHvitfeldt/paletteer
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+[submodule "patchwork"]
+	path = patchwork
+	url = https://github.com/thomasp85/patchwork
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/ropensci/pdftools
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/plotly/plotly
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
+[submodule "r5r"]
+	path = r5r
+	url = https://github.com/ipeaGIT/r5r
+[submodule "rayshader"]
+	path = rayshader
+	url = https://github.com/tylermorganwall/rayshader
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "scales"]
+	path = scales
+	url = https://github.com/r-lib/scales
 [submodule "sf"]
 	path = sf
 	url = https://github.com/r-spatial/sf
 [submodule "sfdep"]
 	path = sfdep
 	url = https://github.com/josiahparry/sfdep
+[submodule "sfheaders"]
+	path = sfheaders
+	url = https://github.com/dcooley/sfheaders
 [submodule "showtext"]
 	path = showtext
 	url = https://github.com/yixuan/showtext
+[submodule "sjPlot"]
+	path = sjPlot
+	url = https://github.com/strengejacke/sjPlot
+[submodule "skimr"]
+	path = skimr
+	url = https://github.com/ropensci/skimr
 [submodule "spatstat"]
 	path = spatstat
 	url = https://github.com/spatstat/spatstat
+[submodule "stargazer"]
+	path = stargazer
+	url = https://github.com/spatstat/spatstat
+[submodule "stplanr"]
+	path = stplanr
+	url = https://github.com/ropensci/stplanr
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
+[submodule "styler"]
+	path = styler
+	url = https://github.com/r-lib/styler
 	subdir = pkg
 [submodule "surveyvisualize"]
 	path = surveyvisualize
@@ -95,9 +216,24 @@
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	registered = false
+[submodule "tictoc"]
+	path = tictoc
+	url = https://github.com/jabiru/tictoc
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/walkerke/tidycensus
+[submodule "tidymodels"]
+	path = tidymodels
+	url = https://github.com/tidymodels/tidymodels
+[submodule "tidyqwi"]
+	path = tidyqwi
+	url = https://github.com/medewitt/tidyqwi
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
+[submodule "tidytransit"]
+	path = tidytransit
+	url = https://github.com/r-transit/tidytransit
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
@@ -107,3 +243,6 @@
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/r-tmap/tmap
+[submodule "tmaptools"]
+	path = tmaptools
+	url = https://github.com/r-tmap/tmaptools
