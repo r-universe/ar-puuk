@@ -2,16 +2,104 @@
 	path = .registry
 	url = https://github.com/ar-puuk/ar-puuk.r-universe.dev
 	branch = HEAD
+[submodule "CTPPr"]
+	path = CTPPr
+	url = https://github.com/Westat-Transportation/CTPPr
+[submodule "arcgis"]
+	path = arcgis
+	url = https://github.com/R-ArcGIS/arcgis
+[submodule "areal"]
+	path = areal
+	url = https://github.com/chris-prener/areal
+[submodule "bbplot"]
+	path = bbplot
+	url = https://github.com/bbc/bbplot
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/Rdatatable/data.table
+[submodule "extrafont"]
+	path = extrafont
+	url = https://github.com/wch/extrafont
 [submodule "glitter"]
 	path = glitter
 	url = https://github.com/lvaudor/glitter
+[submodule "gt"]
+	path = gt
+	url = https://github.com/rstudio/gt
+[submodule "gtsummary"]
+	path = gtsummary
+	url = https://github.com/ddsjoberg/gtsummary
+[submodule "ipumsr"]
+	path = ipumsr
+	url = https://github.com/ipums/ipumsr
+[submodule "janitor"]
+	path = janitor
+	url = https://github.com/sfirke/janitor
+[submodule "jmv"]
+	path = jmv
+	url = https://github.com/jamovi/jmv
+[submodule "lehdr"]
+	path = lehdr
+	url = https://github.com/jamgreen/lehdr
+[submodule "mapview"]
+	path = mapview
+	url = https://github.com/r-spatial/mapview
+[submodule "numetricApi"]
+	path = numetricApi
+	url = https://github.com/RonGuymon/numetricAPI
+[submodule "openxlsx2"]
+	path = openxlsx2
+	url = https://github.com/JanMarvin/openxlsx2
+[submodule "overturemapsr"]
+	path = overturemapsr
+	url = https://github.com/denironyx/overturemapsr
+[submodule "pacman"]
+	path = pacman
+	url = https://github.com/trinker/pacman
+[submodule "pak"]
+	path = pak
+	url = https://github.com/r-lib/pak
+[submodule "pdftools"]
+	path = pdftools
+	url = https://github.com/ropensci/pdftools
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "sf"]
+	path = sf
+	url = https://github.com/r-spatial/sf
+[submodule "sfdep"]
+	path = sfdep
+	url = https://github.com/josiahparry/sfdep
+[submodule "showtext"]
+	path = showtext
+	url = https://github.com/yixuan/showtext
+[submodule "spatstat"]
+	path = spatstat
+	url = https://github.com/spatstat/spatstat
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	registered = false
+[submodule "tidycensus"]
+	path = tidycensus
+	url = https://github.com/walkerke/tidycensus
+[submodule "tidyverse"]
+	path = tidyverse
+	url = https://github.com/tidyverse/tidyverse
+[submodule "tigris"]
+	path = tigris
+	url = https://github.com/walkerke/tigris
+[submodule "tmap"]
+	path = tmap
+	url = https://github.com/r-tmap/tmap
