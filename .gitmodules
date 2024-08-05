@@ -88,7 +88,7 @@
 	url = https://github.com/davidgohel/flextable
 [submodule "foreign"]
 	path = foreign
-	url = https://svn.r-project.org/R-packages/trunk/foreign
+	url = https://github.com/cran/foreign
 [submodule "formatR"]
 	path = formatR
 	url = https://github.com/yihui/formatR
@@ -247,7 +247,7 @@
 	url = https://github.com/r-lib/remotes
 [submodule "rgdal"]
 	path = rgdal
-	url = https://r-forge.r-project.org/projects/rgdal
+	url = https://github.com/cran/rgdal
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
@@ -307,7 +307,7 @@
 	url = https://github.com/walkerke/tidycensus
 [submodule "tidylodes"]
 	path = tidylodes
-	url = https://github.com/patrickballantyne/tidylodes
+	url = https://github.com/ar-puuk/tidylodes
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/tidymodels/tidymodels
