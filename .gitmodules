@@ -5,6 +5,9 @@
 [submodule "CTPPr"]
 	path = CTPPr
 	url = https://github.com/Westat-Transportation/CTPPr
+[submodule "DBI"]
+	path = DBI
+	url = https://github.com/r-dbi/DBI
 [submodule "DT"]
 	path = DT
 	url = https://github.com/rstudio/DT
@@ -20,6 +23,9 @@
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/r-dbi/RSQLite
+[submodule "RSocrata"]
+	path = RSocrata
+	url = https://github.com/Chicago/RSocrata
 [submodule "annotater"]
 	path = annotater
 	url = https://github.com/luisDVA/annotater
@@ -37,7 +43,7 @@
 	url = https://github.com/bbc/bbplot
 [submodule "cartogram"]
 	path = cartogram
-	url = https://sjewo.github.io/cartogram
+	url = https://github.com/sjewo/cartogram
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/hrecht/censusapi
@@ -53,20 +59,20 @@
 [submodule "dataMaid"]
 	path = dataMaid
 	url = https://github.com/ekstroem/dataMaid
+[submodule "dataReporter"]
+	path = dataReporter
+	url = https://github.com/ekstroem/dataReporter
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/MilesMcBain/datapasta
-[submodule "dbi"]
-	path = dbi
-	url = https://github.com/r-dbi/DBI
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
 [submodule "dlookr"]
 	path = dlookr
 	url = https://github.com/choonghyunryu/dlookr
-[submodule "duckdb-r"]
-	path = duckdb-r
+[submodule "duckdb"]
+	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 [submodule "duckplyr"]
 	path = duckplyr
@@ -113,6 +119,9 @@
 [submodule "gtfsio"]
 	path = gtfsio
 	url = https://github.com/r-transit/gtfsio
+[submodule "gtfsrouter"]
+	path = gtfsrouter
+	url = https://github.com/UrbanAnalyst/gtfsrouter
 [submodule "gtfstools"]
 	path = gtfstools
 	url = https://github.com/ipeaGIT/gtfstools
@@ -149,7 +158,7 @@
 	url = https://github.com/ropensci/magick
 [submodule "mapsf"]
 	path = mapsf
-	url = https://riatelab.github.io/mapsf
+	url = https://github.com/riatelab/mapsf
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
@@ -213,6 +222,7 @@
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
+	subdir = r-package
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/tylermorganwall/raybevel
@@ -270,7 +280,7 @@
 	url = https://github.com/spatstat/spatstat
 [submodule "stargazer"]
 	path = stargazer
-	url = https://github.com/spatstat/spatstat
+	url = https://github.com/cran/stargazer
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/ropensci/stplanr
@@ -281,7 +291,6 @@
 [submodule "styler"]
 	path = styler
 	url = https://github.com/r-lib/styler
-	subdir = pkg
 [submodule "surveyvisualize"]
 	path = surveyvisualize
 	url = https://github.com/Westat-Transportation/surveyvisualize
