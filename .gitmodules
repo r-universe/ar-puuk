@@ -255,6 +255,10 @@
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/JosiahParry/rsgeo
+	registered = false
 [submodule "rvg"]
 	path = rvg
 	url = https://github.com/davidgohel/rvg

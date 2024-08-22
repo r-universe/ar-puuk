@@ -42,6 +42,12 @@
     "from": "rayshader"
   },
   {
+    "package": "rsgeo",
+    "url": "https://github.com/JosiahParry/rsgeo",
+    "via": ["stplanr"],
+    "from": "stplanr"
+  },
+  {
     "package": "surveyvisualize",
     "url": "https://github.com/Westat-Transportation/surveyvisualize",
     "via": ["CTPPr"],
