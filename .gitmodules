@@ -11,6 +11,9 @@
 [submodule "DT"]
 	path = DT
 	url = https://github.com/rstudio/DT
+[submodule "GWalkR"]
+	path = GWalkR
+	url = https://github.com/Kanaries/GWalkR
 [submodule "RArcInfo"]
 	path = RArcInfo
 	url = https://github.com/cran/RArcInfo
@@ -55,6 +58,9 @@
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/hrecht/censusapi
+[submodule "collapse"]
+	path = collapse
+	url = https://github.com/SebKrantz/collapse
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
