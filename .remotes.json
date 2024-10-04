@@ -6,12 +6,6 @@
     "from": "parameters"
   },
   {
-    "package": "cards",
-    "url": "https://github.com/insightsengineering/cards",
-    "via": ["gtsummary"],
-    "from": "gtsummary"
-  },
-  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
