@@ -174,6 +174,9 @@
 [submodule "nanoparquet"]
 	path = nanoparquet
 	url = https://github.com/r-lib/nanoparquet
+[submodule "ntdr"]
+	path = ntdr
+	url = https://github.com/vgXhc/ntdr
 [submodule "numetricApi"]
 	path = numetricApi
 	url = https://github.com/RonGuymon/numetricAPI
@@ -225,6 +228,9 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
+[submodule "polite"]
+	path = polite
+	url = https://github.com/dmi3kno/polite
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
@@ -254,6 +260,9 @@
 [submodule "rgdal"]
 	path = rgdal
 	url = https://github.com/cran/rgdal
+[submodule "rgeopi"]
+	path = rgeopi
+	url = https://github.com/ModernMobilityPartners/rgeopi
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
