@@ -1,5 +1,11 @@
 [
   {
+    "package": "cardx",
+    "url": "https://github.com/insightsengineering/cardx",
+    "via": ["gtsummary"],
+    "from": "gtsummary"
+  },
+  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
