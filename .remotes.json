@@ -24,12 +24,6 @@
     "from": "parameters"
   },
   {
-    "package": "later",
-    "url": "https://github.com/r-lib/later",
-    "via": ["httr2"],
-    "from": "httr2"
-  },
-  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],
