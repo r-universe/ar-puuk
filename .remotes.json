@@ -6,12 +6,6 @@
     "from": "pandoc"
   },
   {
-    "package": "ggeffects",
-    "url": "https://github.com/strengejacke/ggeffects",
-    "via": ["sjPlot"],
-    "from": "sjPlot"
-  },
-  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],
