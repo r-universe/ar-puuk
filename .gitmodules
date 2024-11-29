@@ -104,6 +104,10 @@
 [submodule "ggThemeAssist"]
 	path = ggThemeAssist
 	url = https://github.com/calligross/ggthemeassist
+[submodule "ggeffects"]
+	path = ggeffects
+	url = https://github.com/strengejacke/ggeffects
+	registered = false
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/IndrajeetPatil/ggstatsplot
