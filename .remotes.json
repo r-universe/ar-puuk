@@ -6,6 +6,18 @@
     "from": "pandoc"
   },
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters", "datawizard"],
+    "from": "parameters"
+  },
+  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],

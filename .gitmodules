@@ -71,6 +71,10 @@
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/MilesMcBain/datapasta
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	registered = false
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
@@ -140,6 +144,10 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/r-lib/httr2
+[submodule "insight"]
+	path = insight
+	url = https://github.com/easystats/insight
+	registered = false
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
