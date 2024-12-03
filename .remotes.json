@@ -18,6 +18,12 @@
     "from": "parameters"
   },
   {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],
@@ -46,6 +52,12 @@
     "url": "https://github.com/JosiahParry/rsgeo",
     "via": ["stplanr"],
     "from": "stplanr"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["parameters", "performance"],
+    "from": "parameters"
   },
   {
     "package": "surveyvisualize",
