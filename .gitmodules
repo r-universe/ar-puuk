@@ -234,6 +234,10 @@
 	path = performance
 	url = https://github.com/easystats/performance
 	registered = false
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+	registered = false
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/plotly/plotly
