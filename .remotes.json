@@ -18,6 +18,12 @@
     "from": "parameters"
   },
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["parameters", "datawizard", "insight"],
+    "from": "parameters"
+  },
+  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["parameters"],

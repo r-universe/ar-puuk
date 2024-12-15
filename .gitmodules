@@ -172,6 +172,10 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
+[submodule "marginaleffects"]
+	path = marginaleffects
+	url = https://github.com/vincentarelbundock/marginaleffects
+	registered = false
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/ardata-fr/mschart
