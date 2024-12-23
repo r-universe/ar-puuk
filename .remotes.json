@@ -44,19 +44,19 @@
   {
     "package": "rayimage",
     "url": "https://github.com/tylermorganwall/rayimage",
-    "via": ["rayshader", "raybevel", "rayrender"],
+    "via": ["rayshader"],
     "from": "rayshader"
   },
   {
     "package": "rayrender",
     "url": "https://github.com/tylermorganwall/rayrender",
-    "via": ["rayshader", "raybevel"],
+    "via": ["rayshader"],
     "from": "rayshader"
   },
   {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
-    "via": ["rayshader", "raybevel", "rayrender"],
+    "via": ["rayshader", "rayrender"],
     "from": "rayshader"
   },
   {
