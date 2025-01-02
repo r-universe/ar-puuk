@@ -14,13 +14,13 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["parameters", "datawizard"],
+    "via": ["parameters"],
     "from": "parameters"
   },
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["parameters", "datawizard", "insight"],
+    "via": ["parameters", "insight"],
     "from": "parameters"
   },
   {
