@@ -283,6 +283,10 @@
 [submodule "rgeopi"]
 	path = rgeopi
 	url = https://github.com/ModernMobilityPartners/rgeopi
+[submodule "rgl"]
+	path = rgl
+	url = https://github.com/dmurdoch/rgl
+	registered = false
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
