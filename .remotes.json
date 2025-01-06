@@ -94,5 +94,11 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["glitter"],
     "from": "glitter"
+  },
+  {
+    "package": "tmap",
+    "url": "https://github.com/r-tmap/tmap",
+    "via": ["tmaptools"],
+    "from": "tmaptools"
   }
 ]
