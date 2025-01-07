@@ -106,5 +106,11 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["glitter"],
     "from": "glitter"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["parameters", "insight", "marginaleffects"],
+    "from": "parameters"
   }
 ]

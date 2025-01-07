@@ -376,6 +376,10 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/walkerke/tigris
+[submodule "tinysnapshot"]
+	path = tinysnapshot
+	url = https://github.com/vincentarelbundock/tinysnapshot
+	registered = false
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/rstudio/tinytex
