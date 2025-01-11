@@ -148,10 +148,6 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/r-lib/httr2
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	registered = false
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
@@ -176,10 +172,6 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
-[submodule "marginaleffects"]
-	path = marginaleffects
-	url = https://github.com/vincentarelbundock/marginaleffects
-	registered = false
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/ardata-fr/mschart
@@ -376,10 +368,6 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/walkerke/tigris
-[submodule "tinysnapshot"]
-	path = tinysnapshot
-	url = https://github.com/vincentarelbundock/tinysnapshot
-	registered = false
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/rstudio/tinytex

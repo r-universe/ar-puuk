@@ -14,19 +14,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["parameters", "insight"],
+    "via": ["parameters", "performance", "see"],
     "from": "parameters"
   },
   {
@@ -106,11 +94,5 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["glitter"],
     "from": "glitter"
-  },
-  {
-    "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["parameters", "insight", "marginaleffects"],
-    "from": "parameters"
   }
 ]
