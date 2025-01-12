@@ -26,12 +26,6 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
-    "via": ["duckplyr"],
-    "from": "duckplyr"
-  },
-  {
-    "package": "pillar",
-    "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
     "from": "rayshader"
   },
