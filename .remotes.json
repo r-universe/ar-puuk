@@ -12,12 +12,6 @@
     "from": "pandoc"
   },
   {
-    "package": "duckdb",
-    "url": "https://github.com/duckdb/duckdb-r",
-    "via": ["duckplyr"],
-    "from": "duckplyr"
-  },
-  {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
