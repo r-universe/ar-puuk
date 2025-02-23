@@ -231,6 +231,9 @@
 [submodule "polite"]
 	path = polite
 	url = https://github.com/dmi3kno/polite
+[submodule "pukRhelpers"]
+	path = pukRhelpers
+	url = https://github.com/ar-puuk/pukRhelpers
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/ipeaGIT/r5r
