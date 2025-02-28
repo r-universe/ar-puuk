@@ -222,6 +222,10 @@
 	path = pillar
 	url = https://github.com/r-lib/pillar
 	registered = false
+[submodule "pkgcache"]
+	path = pkgcache
+	url = https://github.com/r-lib/pkgcache
+	registered = false
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/plotly/plotly

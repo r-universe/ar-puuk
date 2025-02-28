@@ -12,6 +12,12 @@
     "from": "rayshader"
   },
   {
+    "package": "pkgcache",
+    "url": "https://github.com/r-lib/pkgcache",
+    "via": ["pak"],
+    "from": "pak"
+  },
+  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],
