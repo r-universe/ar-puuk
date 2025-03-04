@@ -140,10 +140,6 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/r-lib/httr2
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	registered = false
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
