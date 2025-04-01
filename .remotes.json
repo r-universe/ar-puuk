@@ -12,6 +12,13 @@
     "from": "pandoc"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["parameters", "insight"],
+    "subdir": "glmmTMB",
+    "from": "parameters"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],

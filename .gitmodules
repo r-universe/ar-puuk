@@ -117,6 +117,11 @@
 [submodule "glitter"]
 	path = glitter
 	url = https://github.com/lvaudor/glitter
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	subdir = glmmTMB
+	registered = false
 [submodule "gridExtra"]
 	path = gridExtra
 	url = https://github.com/baptiste/gridextra
