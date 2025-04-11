@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards",
     "via": ["gtsummary"],
@@ -21,6 +27,12 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["parameters", "bayestestR"],
     "from": "parameters"
   },
   {

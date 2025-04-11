@@ -41,6 +41,10 @@
 [submodule "areal"]
 	path = areal
 	url = https://github.com/chris-prener/areal
+[submodule "bayestestR"]
+	path = bayestestR
+	url = https://github.com/easystats/bayestestR
+	registered = false
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
@@ -176,6 +180,10 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/r-spatial/mapview
+[submodule "modelbased"]
+	path = modelbased
+	url = https://github.com/easystats/modelbased
+	registered = false
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/ardata-fr/mschart
