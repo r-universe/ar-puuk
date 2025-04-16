@@ -75,6 +75,10 @@
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/MilesMcBain/datapasta
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	registered = false
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
