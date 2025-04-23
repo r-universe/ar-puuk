@@ -75,6 +75,10 @@
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/MilesMcBain/datapasta
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	registered = false
 [submodule "devtools"]
 	path = devtools
 	url = https://github.com/r-lib/devtools
@@ -323,6 +327,10 @@
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
+[submodule "statsExpressions"]
+	path = statsExpressions
+	url = https://github.com/IndrajeetPatil/statsExpressions
+	registered = false
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/ropensci/stplanr
