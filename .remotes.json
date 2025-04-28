@@ -6,12 +6,6 @@
     "from": "ggstatsplot"
   },
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
@@ -30,22 +24,10 @@
     "from": "ggstatsplot"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["ggstatsplot", "bayestestR"],
     "from": "ggstatsplot"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["parameters", "bayestestR"],
-    "from": "parameters"
   },
   {
     "package": "parameters",
