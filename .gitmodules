@@ -226,11 +226,6 @@
 [submodule "pandoc"]
 	path = pandoc
 	url = https://github.com/cderv/pandoc
-[submodule "parallelly"]
-	path = parallelly
-	url = https://github.com/futureverse/parallelly
-	branch = 1.44.0
-	registered = false
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters

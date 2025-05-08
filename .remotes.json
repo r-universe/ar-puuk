@@ -31,13 +31,6 @@
     "from": "parameters"
   },
   {
-    "package": "parallelly",
-    "url": "https://github.com/futureverse/parallelly",
-    "via": ["future"],
-    "branch": "1.44.0",
-    "from": "future"
-  },
-  {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
