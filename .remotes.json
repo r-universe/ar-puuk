@@ -21,7 +21,6 @@
     "package": "globals",
     "url": "https://github.com/futureverse/globals",
     "via": ["future"],
-    "branch": "develop",
     "from": "future"
   },
   {
@@ -29,6 +28,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
+  },
+  {
+    "package": "parallelly",
+    "url": "https://github.com/futureverse/parallelly",
+    "via": ["future"],
+    "from": "future"
   },
   {
     "package": "pillar",

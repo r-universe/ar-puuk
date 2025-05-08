@@ -124,7 +124,6 @@
 [submodule "globals"]
 	path = globals
 	url = https://github.com/futureverse/globals
-	branch = develop
 	registered = false
 [submodule "gridExtra"]
 	path = gridExtra
@@ -226,6 +225,10 @@
 [submodule "pandoc"]
 	path = pandoc
 	url = https://github.com/cderv/pandoc
+[submodule "parallelly"]
+	path = parallelly
+	url = https://github.com/futureverse/parallelly
+	registered = false
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters
