@@ -121,6 +121,11 @@
 [submodule "glitter"]
 	path = glitter
 	url = https://github.com/lvaudor/glitter
+[submodule "globals"]
+	path = globals
+	url = https://github.com/futureverse/globals
+	branch = develop
+	registered = false
 [submodule "gridExtra"]
 	path = gridExtra
 	url = https://github.com/baptiste/gridextra
