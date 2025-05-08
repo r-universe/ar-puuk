@@ -21,6 +21,7 @@
     "package": "globals",
     "url": "https://github.com/futureverse/globals",
     "via": ["future"],
+    "branch": "0.18.0",
     "from": "future"
   },
   {
@@ -33,6 +34,7 @@
     "package": "parallelly",
     "url": "https://github.com/futureverse/parallelly",
     "via": ["future"],
+    "branch": "1.44.0",
     "from": "future"
   },
   {

@@ -124,6 +124,7 @@
 [submodule "globals"]
 	path = globals
 	url = https://github.com/futureverse/globals
+	branch = 0.18.0
 	registered = false
 [submodule "gridExtra"]
 	path = gridExtra
@@ -228,6 +229,7 @@
 [submodule "parallelly"]
 	path = parallelly
 	url = https://github.com/futureverse/parallelly
+	branch = 1.44.0
 	registered = false
 [submodule "parameters"]
 	path = parameters
