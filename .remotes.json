@@ -18,13 +18,6 @@
     "from": "ggstatsplot"
   },
   {
-    "package": "globals",
-    "url": "https://github.com/futureverse/globals",
-    "via": ["future"],
-    "branch": "0.18.0",
-    "from": "future"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
