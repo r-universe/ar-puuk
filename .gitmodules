@@ -160,6 +160,10 @@
 [submodule "jsonlite"]
 	path = jsonlite
 	url = https://github.com/jeroen/jsonlite
+[submodule "keyring"]
+	path = keyring
+	url = https://github.com/r-lib/keyring
+	registered = false
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/jamgreen/lehdr
