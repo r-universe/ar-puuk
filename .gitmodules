@@ -156,10 +156,6 @@
 [submodule "jsonlite"]
 	path = jsonlite
 	url = https://github.com/jeroen/jsonlite
-[submodule "keyring"]
-	path = keyring
-	url = https://github.com/r-lib/keyring
-	registered = false
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/jamgreen/lehdr
@@ -229,10 +225,6 @@
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/r-lib/pillar
-	registered = false
-[submodule "pkgcache"]
-	path = pkgcache
-	url = https://github.com/r-lib/pkgcache
 	registered = false
 [submodule "plotly"]
 	path = plotly

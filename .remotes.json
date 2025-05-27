@@ -12,12 +12,6 @@
     "from": "pandoc"
   },
   {
-    "package": "keyring",
-    "url": "https://github.com/r-lib/keyring",
-    "via": ["pak"],
-    "from": "pak"
-  },
-  {
     "package": "officer",
     "url": "https://github.com/davidgohel/officer",
     "via": ["flextable"],
@@ -28,12 +22,6 @@
     "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
     "from": "rayshader"
-  },
-  {
-    "package": "pkgcache",
-    "url": "https://github.com/r-lib/pkgcache",
-    "via": ["pak"],
-    "from": "pak"
   },
   {
     "package": "raybevel",
