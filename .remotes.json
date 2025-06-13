@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "cards",
     "url": "https://github.com/insightsengineering/cards",
     "via": ["gtsummary"],
@@ -10,6 +16,12 @@
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
     "from": "pandoc"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
   },
   {
     "package": "pillar",
