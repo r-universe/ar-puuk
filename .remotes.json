@@ -18,6 +18,12 @@
     "from": "gtsummary"
   },
   {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],

@@ -65,6 +65,10 @@
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/SebKrantz/collapse
+[submodule "correlation"]
+	path = correlation
+	url = https://github.com/easystats/correlation
+	registered = false
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
