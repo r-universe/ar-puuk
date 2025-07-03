@@ -48,14 +48,6 @@
 [submodule "bbplot"]
 	path = bbplot
 	url = https://github.com/bbc/bbplot
-[submodule "cards"]
-	path = cards
-	url = https://github.com/insightsengineering/cards
-	registered = false
-[submodule "cardx"]
-	path = cardx
-	url = https://github.com/insightsengineering/cardx
-	registered = false
 [submodule "cartogram"]
 	path = cartogram
 	url = https://github.com/sjewo/cartogram
