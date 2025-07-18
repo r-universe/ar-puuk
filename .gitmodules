@@ -57,6 +57,10 @@
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/SebKrantz/collapse
+[submodule "cols4all"]
+	path = cols4all
+	url = https://github.com/cols4all/cols4all-R
+	registered = false
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays

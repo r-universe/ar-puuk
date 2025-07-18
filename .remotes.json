@@ -6,6 +6,12 @@
     "from": "gtsummary"
   },
   {
+    "package": "cols4all",
+    "url": "https://github.com/cols4all/cols4all-R",
+    "via": ["tmap"],
+    "from": "tmap"
+  },
+  {
     "package": "curl",
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
