@@ -88,5 +88,11 @@
     "url": "https://github.com/tylermorganwall/testthat",
     "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
+  },
+  {
+    "package": "tinytable",
+    "url": "https://github.com/vincentarelbundock/tinytable",
+    "via": ["parameters", "insight"],
+    "from": "parameters"
   }
 ]
