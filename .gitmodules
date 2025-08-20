@@ -152,10 +152,6 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/r-lib/httr2
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	registered = false
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
@@ -371,10 +367,6 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/walkerke/tigris
-[submodule "tinytable"]
-	path = tinytable
-	url = https://github.com/vincentarelbundock/tinytable
-	registered = false
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/rstudio/tinytex
