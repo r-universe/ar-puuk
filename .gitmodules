@@ -188,6 +188,10 @@
 	path = marginaleffects
 	url = https://github.com/vincentarelbundock/marginaleffects
 	registered = false
+[submodule "modelbased"]
+	path = modelbased
+	url = https://github.com/easystats/modelbased
+	registered = false
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/ardata-fr/mschart
