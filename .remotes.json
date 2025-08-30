@@ -1,11 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
     "package": "cols4all",
     "url": "https://github.com/cols4all/cols4all-R",
     "via": ["tmap"],
@@ -16,24 +10,6 @@
     "url": "https://github.com/jeroen/curl",
     "via": ["pandoc"],
     "from": "pandoc"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["parameters", "bayestestR"],
-    "from": "parameters"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["parameters"],
-    "from": "parameters"
   },
   {
     "package": "pillar",
