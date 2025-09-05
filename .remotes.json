@@ -1,5 +1,11 @@
 [
   {
+    "package": "cards",
+    "url": "https://github.com/insightsengineering/cards",
+    "via": ["gtsummary"],
+    "from": "gtsummary"
+  },
+  {
     "package": "cols4all",
     "url": "https://github.com/cols4all/cols4all-R",
     "via": ["tmap"],
