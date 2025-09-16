@@ -159,6 +159,10 @@
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/jamgreen/lehdr
+[submodule "libopenexr"]
+	path = libopenexr
+	url = https://github.com/tylermorganwall/libopenexr
+	registered = false
 [submodule "magick"]
 	path = magick
 	url = https://github.com/ropensci/magick
