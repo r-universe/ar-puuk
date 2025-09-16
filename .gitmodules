@@ -29,6 +29,10 @@
 [submodule "RSocrata"]
 	path = RSocrata
 	url = https://github.com/Chicago/RSocrata
+[submodule "Rttf2pt1"]
+	path = Rttf2pt1
+	url = https://github.com/wch/Rttf2pt1
+	registered = false
 [submodule "annotater"]
 	path = annotater
 	url = https://github.com/luisDVA/annotater
