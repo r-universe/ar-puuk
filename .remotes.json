@@ -18,10 +18,22 @@
     "from": "pandoc"
   },
   {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "libopenexr",
     "url": "https://github.com/tylermorganwall/libopenexr",
     "via": ["rayshader", "raybevel", "rayvertex", "rayimage"],
     "from": "rayshader"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["parameters"],
+    "from": "parameters"
   },
   {
     "package": "pillar",
