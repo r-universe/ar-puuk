@@ -24,6 +24,12 @@
     "from": "pandoc"
   },
   {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "via": ["duckplyr"],
+    "from": "duckplyr"
+  },
+  {
     "package": "libopenexr",
     "url": "https://github.com/tylermorganwall/libopenexr",
     "via": ["rayshader", "raybevel", "rayrender", "rayimage"],
